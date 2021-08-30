@@ -1,0 +1,73 @@
+#root {
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.App-header {
+  position: fixed;
+  width: 100%;
+  flex: 0 1 auto;
+  background-color: #3d3f44;
+  min-height: 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-wrapper{
+  padding: 50px 0 0 50px;
+}
+.form-element{
+  max-width: 650px;
+    display: flex;
+    flex-flow: column;
+    float: left;
+    width: 650px;
+}
+.App-link {
+  color: #61dafb;
+}
+
+.App-content{
+  margin-top: 160px;
+  background-color: #eee;
+  flex: 1 1 auto;
+  min-height: 400px;
+  
+}
+
+.k-menu-link{
+   font-size: 30px;
+}
+
+.clearGridStyles th, .clearGridStyles td, .clearGridStyles table{
+  padding:initial!important;
+  width: 100%!important;
+  border-width: 0px!important;
+  text-align: center!important;
+}
+
+.clearGridStyles th, .clearGridStyles td{
+  text-align: center!important;
+}
+
+h1{
+  color: #3d3f44;
+}
+
+.ticket{
+  padding: 50px 50px;
+  text-align: left;
+  background-color: #dbdbdb;
+  font-size: 18px;
+}
+
+.answer{
+  margin-top: 50px;
+  padding: 50px 50px;
+  background-color: #f0f0f0;
+}
+

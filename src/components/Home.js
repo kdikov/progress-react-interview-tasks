@@ -66,7 +66,7 @@ const Home = () => {
                     <p>Hello,</p>
                     <p>The desired functionality could be achieved by setting the "<strong>cell</strong>" and "<strong>headerCell</strong>" properties of the Grid and adding "<strong>title</strong>" to the td element as shown in the following example:</p>
                     <ul>
-                        <li><a href="https://www.telerik.com/kendo-react-ui/knowledge-base/tooltip-in-grid/">https://www.telerik.com/kendo-react-ui/knowledge-base/tooltip-in-grid/</a></li>
+                        <li><a href="https://www.telerik.com/kendo-react-ui/knowledge-base/tooltip-in-grid/"  target="_blank">https://www.telerik.com/kendo-react-ui/knowledge-base/tooltip-in-grid/</a></li>
                     </ul>
                     <p>&nbsp;</p>
                     <p>Another option, if you want to show only small portion of the text in the cell on a single line, you can render the text in a&nbsp;<strong>div&nbsp;</strong>element within the&nbsp;<strong>td&nbsp;</strong>and set its&nbsp;<strong>title&nbsp;</strong>instead:</p>
@@ -81,7 +81,7 @@ const Home = () => {
                     <div>&nbsp;</div>
                     <div>This approach could be checked in the link below:</div>
                     <ul>
-                        <li><a href="https://stackblitz.com/edit/react-ppulvj?file=app/main.jsx">https://stackblitz.com/edit/react-ppulvj?file=app/main.jsx</a></li>
+                        <li><a href="https://stackblitz.com/edit/react-ppulvj?file=app/main.jsx"  target="_blank">https://stackblitz.com/edit/react-ppulvj?file=app/main.jsx</a></li>
                     </ul>
                     <p>&nbsp;</p>
                     <p>Hope this helps.</p>
@@ -105,13 +105,13 @@ const Home = () => {
                     <p>Hello,</p>
                     <p>For customizing the exported file you can manipulate the woorbook and pass the changed worbook to the "save" method of the ExcelExport. Following is a link to our help article for customizing the workbook:</p>
                     <ul>
-                        <li><a href="https://www.telerik.com/kendo-react-ui/components/excelexport/customization/">https://www.telerik.com/kendo-react-ui/components/excelexport/customization/</a></li>
+                        <li><a href="https://www.telerik.com/kendo-react-ui/components/excelexport/customization/"  target="_blank">https://www.telerik.com/kendo-react-ui/components/excelexport/customization/</a></li>
                     </ul>
                 
                 <p>&nbsp;</p>
                 <p>In the following example I have integrated the above approach in the context of the Grid excel export:</p>
                 <ul>
-                    <li><a href="https://stackblitz.com/edit/react-dpjhwu?file=app/main.jsx">https://stackblitz.com/edit/react-dpjhwu?file=app/main.jsx</a></li>
+                    <li><a href="https://stackblitz.com/edit/react-dpjhwu?file=app/main.jsx"  target="_blank">https://stackblitz.com/edit/react-dpjhwu?file=app/main.jsx</a></li>
                 </ul>
                 <p>&nbsp;</p>
                 <p>As you will notice, we are traversing each row of the workbook and we are conditionally changing the background of the Price cell (index 2):</p>

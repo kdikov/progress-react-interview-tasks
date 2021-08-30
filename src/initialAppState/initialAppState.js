@@ -49,7 +49,7 @@ export const InitialState = {
   Price: 20,
   Description: "some description",
   Rating: 3,
-  BookedDates: ["2021-8-30", "2021-9-1", "2021-9-3", "2021-9-9"]
+  BookedDates: ["2021-8-29", "2021-9-1", "2021-9-3", "2021-9-9"]
 },
 {
   ID: 2,
@@ -65,6 +65,6 @@ export const InitialState = {
   Price: 35,
   Description: "some description",
   Rating: 5,
-  BookedDates: ["2021-8-30", "2021-9-2", "2021-9-3", "2021-9-4"]
+  BookedDates: ["2021-8-28", "2021-8-29","2021-9-2", "2021-9-3", "2021-9-4"]
 }]
 }
